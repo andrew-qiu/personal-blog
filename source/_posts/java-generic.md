@@ -1,6 +1,6 @@
 ---
-title: 重新理解Java泛型
-date: 2018-05-03 16:58:42
+title: Java泛型理解难点总结
+date: 2018-05-16 16:58:42
 categories: Java
 tags: [Java]
 #cover: banner-write-in-es6.jpg
